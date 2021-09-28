@@ -1,5 +1,5 @@
 # il2cpp
-c++ il2cpp wrapper
+c++ il2cpp wrapper (for rust, adapt for other games)
 
 for full usage need crc (https://gist.github.com/iwanders/8e1cb7b92af2ccf8d1a73450d771f483)
 
